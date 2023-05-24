@@ -1,11 +1,13 @@
 :root {
   --base: #f5c000;
-  --spacing: 10px;
-  --blur: 10px;
+  --spacing: 40px;
+  --blur: 40px;
 }
 
 body {
   text-align: center;
+  background: #222222;
+  color: white;
 }
 
 .h1 {
@@ -14,12 +16,11 @@ body {
 
 h2 {
   font-size: 32px;
+  color: white;
 }
 
 img {
+  padding: var(--spacing);
   background: var(--base);
-}
-
-#kitten {
-  padding-top: 40px;
+  filter: var(--blur);
 }
