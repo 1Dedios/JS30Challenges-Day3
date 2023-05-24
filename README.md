@@ -10,6 +10,8 @@ Github Pages (Interactive Site) - [x](link)
 
 ## Differences Between Original and My Project:
 
+- The image used originally was of the NYC skyline. I decided to go with a dark gray kitten 🙂.
+
 ## Screenshot
 
 ![Clock](x)
